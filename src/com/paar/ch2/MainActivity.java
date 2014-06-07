@@ -14,6 +14,7 @@ public class MainActivity extends Activity {
 	Camera camera;
 	boolean inPreview;
 
+	//git -- deneme degisiklik
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
