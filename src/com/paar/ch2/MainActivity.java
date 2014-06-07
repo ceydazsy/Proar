@@ -15,6 +15,7 @@ public class MainActivity extends Activity {
 	boolean inPreview;
 
 	//git -- deneme degisiklik
+	//git -- deneme degisiklik 2
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
